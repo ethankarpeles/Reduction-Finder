@@ -1,0 +1,4 @@
+Append(~ElList, EllipticCurve([7, 9, 0, 7, 3]));
+Append(~ElList, EllipticCurve([7, 9, 2, 0, 2]));
+Append(~ElList, EllipticCurve([9, 1, 0, 7, 3]));
+Append(~ElList, EllipticCurve([9, 4, 11, 3, 2]));
